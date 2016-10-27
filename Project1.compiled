@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<CONFIG>
+  <Compiler Value="/usr/local/bin/ppc386" Date="1359911592"/>
+  <Params Value=" -MObjFPC -Scgi -O1 -g -gl -vewnhi &quot;-Fu/Users/Anatoly/Dropbox/SCIENCE/Programming/Direct stimulation/&quot; -l Project1.dpr"/>
+  <Complete Value="False"/>
+</CONFIG>

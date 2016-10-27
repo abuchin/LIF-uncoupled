@@ -1,0 +1,9 @@
+Parameters for Firing Rate of LIF:
+Vrest=0		mV
+Vreset=0	mV
+S=27.5 e-5	cm^2
+Vtr=11.6	mV
+VL=0	    mV
+sigma_V=1	mV
+tau_mem=15	ms
+C=0.0007    mF/cm^2
